@@ -2,16 +2,15 @@
 To build a chatbot that educates Vietnamese users about cryptocurrency concepts, provides real-time information, and raises awareness about scams and legal concerns in the local context.
 
 ## 🧠 Core Functions
-### 1. 📚 Crypto Education in Vietnamese
+### 1. 📚 Crypto and Blockchain Education in Vietnamese
 Simplify crypto concepts for beginners:
 - Blockchain là gì?
 - Ví điện tử (crypto wallets)
 - Staking, mining, NFT
 - Explain key crypto terms in plain Vietnamese: "Token", "coin", "DeFi", "Smart contract", etc.
-### 2. 📰 Real-time Market Info
-- Use APIs (e.g., CoinGecko, CoinMarketCap) to:
+### 2. 📰 Real-time Market Information
+Use APIs (e.g., CoinGecko, CoinMarketCap) to:
 - Show current prices of BTC, ETH, BNB, SOL, etc.
-- Display price charts, change % over time
 - Convert values (e.g., “1 ETH = ? VNĐ”)
 ### 3. 🚨 Scam and Fraud Alerts
 - Detect user questions related to suspicious offers: e.g., “Đầu tư ủy thác có lời không?”, “đa cấp 4.0”
